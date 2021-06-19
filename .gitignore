@@ -1,0 +1,9 @@
+#IDE
+.vscode
+.idea
+
+#dependences
+node_modules
+
+#ENV
+.env
